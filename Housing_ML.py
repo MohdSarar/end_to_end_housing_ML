@@ -148,4 +148,4 @@ joblib.dump(lr_model, "linear_regression_model.pkl")
 joblib.dump(rf_model, "random_forest_model.pkl")
 joblib.dump(scaler, "scaler.pkl")
 
-print("✅ Full pipeline completed with EDA and model training.")
+print(" Full pipeline completed with EDA and model training.")
